@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Interactive Star Visualization</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div id="tooltip" class="tooltip hidden"></div>
+
+  <div id="controls" style="position:fixed;left:12px;top:12px;z-index:50;color:#ddd;font-family:sans-serif;font-size:13px;">
+    <label style="display:block;margin-bottom:6px;">Load star JSON from Explorer:
+      <input id="fileInput" type="file" accept="application/json,.json" style="margin-left:8px;" />
+    </label>
+    <small style="opacity:0.8;">Or let the app try to fetch DATA/star_dataset_cleaned.json</small>
+  </div>
+
+  <canvas id="spaceCanvas"></canvas>
+
+  <script src="sketch.js"></script>
+</body>
+</html>
