@@ -1,234 +1,235 @@
-[
-    {
-        "Name":"Achernar",
-        "Distance (ly)":143.629960688,
-        "Luminosity (L\/Lo)":3154.4345967156,
-        "Radius (R\/Ro)":9.1951749425,
-        "Temperature (K)":14969.6872402637,
-        "Spectral Class":"B6Vep"
-    },
-    {
-        "Name":"Acrux",
-        "Distance (ly)":320.5286601686,
-        "Luminosity (L\/Lo)":25004.9632509792,
-        "Radius (R\/Ro)":8.3040984892,
-        "Temperature (K)":28028.4827990838,
-        "Spectral Class":"B0.5IV"
-    },
-    {
-        "Name":"Aldebaran",
-        "Distance (ly)":64.6936573254,
-        "Luminosity (L\/Lo)":522.1631626286,
-        "Radius (R\/Ro)":44.1608986861,
-        "Temperature (K)":3940.9822432178,
-        "Spectral Class":"K5III"
-    },
-    {
-        "Name":"Alnilam",
-        "Distance (ly)":2000.2545569215,
-        "Luminosity (L\/Lo)":53704.6457106366,
-        "Radius (R\/Ro)":32.4837946169,
-        "Temperature (K)":27523.8868238369,
-        "Spectral Class":"B0Ia"
-    },
-    {
-        "Name":"Alpha Centauri B",
-        "Distance (ly)":4.7356216586,
-        "Luminosity (L\/Lo)":5.4391034606,
-        "Radius (R\/Ro)":0.9091029747,
-        "Temperature (K)":5293.5113957685,
-        "Spectral Class":"K1V"
-    },
-    {
-        "Name":"Altair",
-        "Distance (ly)":17.0047525574,
-        "Luminosity (L\/Lo)":15.5096535842,
-        "Radius (R\/Ro)":1.5741356101,
-        "Temperature (K)":7589.0188616057,
-        "Spectral Class":"A7V"
-    },
-    {
-        "Name":"Antares",
-        "Distance (ly)":549.8094446057,
-        "Luminosity (L\/Lo)":10004.8888934298,
-        "Radius (R\/Ro)":679.9451981136,
-        "Temperature (K)":3503.2203387407,
-        "Spectral Class":"M1.5Iab"
-    },
-    {
-        "Name":"Arcturus",
-        "Distance (ly)":36.2018057329,
-        "Luminosity (L\/Lo)":174.7332915547,
-        "Radius (R\/Ro)":25.4414997431,
-        "Temperature (K)":4248.4080308476,
-        "Spectral Class":"K1.5III"
-    },
-    {
-        "Name":"Barnard's Star",
-        "Distance (ly)":6.1871656307,
-        "Luminosity (L\/Lo)":4.9569442338,
-        "Radius (R\/Ro)":0.1391027781,
-        "Temperature (K)":3145.3595033456,
-        "Spectral Class":"M4Ve"
-    },
-    {
-        "Name":"Bellatrix",
-        "Distance (ly)":239.7726343351,
-        "Luminosity (L\/Lo)":6404.8043623041,
-        "Radius (R\/Ro)":5.7502530575,
-        "Temperature (K)":22611.9374037649,
-        "Spectral Class":"B2III"
-    },
-    {
-        "Name":"Betelgeuse",
-        "Distance (ly)":642.7547888999,
-        "Luminosity (L\/Lo)":126004.9078150664,
-        "Radius (R\/Ro)":887.0573491617,
-        "Temperature (K)":3476.8994046145,
-        "Spectral Class":"M2Iab"
-    },
-    {
-        "Name":"Canopus",
-        "Distance (ly)":310.2130102878,
-        "Luminosity (L\/Lo)":10504.6540480726,
-        "Radius (R\/Ro)":71.0789493001,
-        "Temperature (K)":7379.1485905192,
-        "Spectral Class":"A9II"
-    },
-    {
-        "Name":"Capella",
-        "Distance (ly)":43.2689811044,
-        "Luminosity (L\/Lo)":83.5321362018,
-        "Radius (R\/Ro)":12.0600037322,
-        "Temperature (K)":4895.7142393517,
-        "Spectral Class":"G8III"
-    },
-    {
-        "Name":"Castor",
-        "Distance (ly)":51.5702100582,
-        "Luminosity (L\/Lo)":59.9336417557,
-        "Radius (R\/Ro)":2.3172943774,
-        "Temperature (K)":10334.1403388822,
-        "Spectral Class":"A1V"
-    },
-    {
-        "Name":"Deneb",
-        "Distance (ly)":2600.0541116982,
-        "Luminosity (L\/Lo)":196004.8540806223,
-        "Radius (R\/Ro)":203.0227148555,
-        "Temperature (K)":8502.2960328903,
-        "Spectral Class":"A2Ia"
-    },
-    {
-        "Name":"Fomalhaut",
-        "Distance (ly)":24.8431170801,
-        "Luminosity (L\/Lo)":21.4360232444,
-        "Radius (R\/Ro)":1.8758857976,
-        "Temperature (K)":8630.9352414921,
-        "Spectral Class":"A3V"
-    },
-    {
-        "Name":"Hadar",
-        "Distance (ly)":349.8618670626,
-        "Luminosity (L\/Lo)":50004.948951253,
-        "Radius (R\/Ro)":8.924915432,
-        "Temperature (K)":24982.4559984331,
-        "Spectral Class":"B1III"
-    },
-    {
-        "Name":"Lalande 21185",
-        "Distance (ly)":8.7317322984,
-        "Luminosity (L\/Lo)":4.7862383088,
-        "Radius (R\/Ro)":0.3347032307,
-        "Temperature (K)":3382.6890402272,
-        "Spectral Class":"M2.1V"
-    },
-    {
-        "Name":"Mira",
-        "Distance (ly)":418.2183952968,
-        "Luminosity (L\/Lo)":8704.7806495111,
-        "Radius (R\/Ro)":370.0744266107,
-        "Temperature (K)":2925.3920762981,
-        "Spectral Class":"M7IIIe"
-    },
-    {
-        "Name":"Polaris",
-        "Distance (ly)":323.034675098,
-        "Luminosity (L\/Lo)":2204.9741518094,
-        "Radius (R\/Ro)":37.4487610573,
-        "Temperature (K)":6061.9433548655,
-        "Spectral Class":"F7Ib"
-    },
-    {
-        "Name":"Procyon",
-        "Distance (ly)":11.1468819371,
-        "Luminosity (L\/Lo)":12.2188621199,
-        "Radius (R\/Ro)":2.0247293673,
-        "Temperature (K)":6503.7855898504,
-        "Spectral Class":"F5IV-V"
-    },
-    {
-        "Name":"Regulus",
-        "Distance (ly)":78.8696975851,
-        "Luminosity (L\/Lo)":292.7771392799,
-        "Radius (R\/Ro)":3.2154445654,
-        "Temperature (K)":12493.5400873692,
-        "Spectral Class":"B7V"
-    },
-    {
-        "Name":"Rigel",
-        "Distance (ly)":860.3803983161,
-        "Luminosity (L\/Lo)":120004.7228303429,
-        "Radius (R\/Ro)":78.8201839886,
-        "Temperature (K)":12100.4388145159,
-        "Spectral Class":"B8Ia"
-    },
-    {
-        "Name":"Rigil Kentaurus",
-        "Distance (ly)":4.4729427678,
-        "Luminosity (L\/Lo)":6.4969976741,
-        "Radius (R\/Ro)":1.1768595688,
-        "Temperature (K)":5809.0653228186,
-        "Spectral Class":"G2V"
-    },
-    {
-        "Name":"Ross 154",
-        "Distance (ly)":9.3233893462,
-        "Luminosity (L\/Lo)":4.9957946161,
-        "Radius (R\/Ro)":0.1833450975,
-        "Temperature (K)":2775.2989538037,
-        "Spectral Class":"M3.5V"
-    },
-    {
-        "Name":"Sirius",
-        "Distance (ly)":8.4048850423,
-        "Luminosity (L\/Lo)":30.3632115552,
-        "Radius (R\/Ro)":1.697550319,
-        "Temperature (K)":9929.1974867611,
-        "Spectral Class":"A1V"
-    },
-    {
-        "Name":"Spica",
-        "Distance (ly)":250.3496408249,
-        "Luminosity (L\/Lo)":22004.5947970871,
-        "Radius (R\/Ro)":7.4870500968,
-        "Temperature (K)":25392.5355901035,
-        "Spectral Class":"B1III-IV"
-    },
-    {
-        "Name":"Vega",
-        "Distance (ly)":25.4072867274,
-        "Luminosity (L\/Lo)":45.0263999451,
-        "Radius (R\/Ro)":2.3758185019,
-        "Temperature (K)":9589.7203318027,
-        "Spectral Class":"A0V"
-    },
-    {
-        "Name":"Wolf 359",
-        "Distance (ly)":7.573447101,
-        "Luminosity (L\/Lo)":4.9281268039,
-        "Radius (R\/Ro)":0.1897370426,
-        "Temperature (K)":2812.8697252841,
-        "Spectral Class":"M6V"
-    }
+
+    [
+  {
+    "Name": "Achernar",
+    "Distance (ly)": 143.629960688,
+    "Luminosity (L/Lo)": 3154.4345967156,
+    "Radius (R/Ro)": 9.1951749425,
+    "Temperature (K)": 14969.6872402637,
+    "Spectral Class": "B6Vep"
+  },
+  {
+    "Name": "Acrux",
+    "Distance (ly)": 320.5286601686,
+    "Luminosity (L/Lo)": 25004.9632509792,
+    "Radius (R/Ro)": 8.3040984892,
+    "Temperature (K)": 28028.4827990838,
+    "Spectral Class": "B0.5IV"
+  },
+  {
+    "Name": "Aldebaran",
+    "Distance (ly)": 64.6936573254,
+    "Luminosity (L/Lo)": 522.1631626286,
+    "Radius (R/Ro)": 44.1608986861,
+    "Temperature (K)": 3940.9822432178,
+    "Spectral Class": "K5III"
+  },
+  {
+    "Name": "Alnilam",
+    "Distance (ly)": 2000.2545569215,
+    "Luminosity (L/Lo)": 53704.6457106366,
+    "Radius (R/Ro)": 32.4837946169,
+    "Temperature (K)": 27523.8868238369,
+    "Spectral Class": "B0Ia"
+  },
+  {
+    "Name": "Alpha Centauri B",
+    "Distance (ly)": 4.7356216586,
+    "Luminosity (L/Lo)": 5.4391034606,
+    "Radius (R/Ro)": 0.9091029747,
+    "Temperature (K)": 5293.5113957685,
+    "Spectral Class": "K1V"
+  },
+  {
+    "Name": "Altair",
+    "Distance (ly)": 17.0047525574,
+    "Luminosity (L/Lo)": 15.5096535842,
+    "Radius (R/Ro)": 1.5741356101,
+    "Temperature (K)": 7589.0188616057,
+    "Spectral Class": "A7V"
+  },
+  {
+    "Name": "Antares",
+    "Distance (ly)": 549.8094446057,
+    "Luminosity (L/Lo)": 10004.8888934298,
+    "Radius (R/Ro)": 679.9451981136,
+    "Temperature (K)": 3503.2203387407,
+    "Spectral Class": "M1.5Iab"
+  },
+  {
+    "Name": "Arcturus",
+    "Distance (ly)": 36.2018057329,
+    "Luminosity (L/Lo)": 174.7332915547,
+    "Radius (R/Ro)": 25.4414997431,
+    "Temperature (K)": 4248.4080308476,
+    "Spectral Class": "K1.5III"
+  },
+  {
+    "Name": "Barnard s Star",
+    "Distance (ly)": 6.1871656307,
+    "Luminosity (L/Lo)": 4.9569442338,
+    "Radius (R/Ro)": 0.1391027781,
+    "Temperature (K)": 3145.3595033456,
+    "Spectral Class": "M4Ve"
+  },
+  {
+    "Name": "Bellatrix",
+    "Distance (ly)": 239.7726343351,
+    "Luminosity (L/Lo)": 6404.8043623041,
+    "Radius (R/Ro)": 5.7502530575,
+    "Temperature (K)": 22611.9374037649,
+    "Spectral Class": "B2III"
+  },
+  {
+    "Name": "Betelgeuse",
+    "Distance (ly)": 642.7547888999,
+    "Luminosity (L/Lo)": 126004.9078150664,
+    "Radius (R/Ro)": 887.0573491617,
+    "Temperature (K)": 3476.8994046145,
+    "Spectral Class": "M2Iab"
+  },
+  {
+    "Name": "Canopus",
+    "Distance (ly)": 310.2130102878,
+    "Luminosity (L/Lo)": 10504.6540480726,
+    "Radius (R/Ro)": 71.0789493001,
+    "Temperature (K)": 7379.1485905192,
+    "Spectral Class": "A9II"
+  },
+  {
+    "Name": "Capella",
+    "Distance (ly)": 43.2689811044,
+    "Luminosity (L/Lo)": 83.5321362018,
+    "Radius (R/Ro)": 12.0600037322,
+    "Temperature (K)": 4895.7142393517,
+    "Spectral Class": "G8III"
+  },
+  {
+    "Name": "Castor",
+    "Distance (ly)": 51.5702100582,
+    "Luminosity (L/Lo)": 59.9336417557,
+    "Radius (R/Ro)": 2.3172943774,
+    "Temperature (K)": 10334.1403388822,
+    "Spectral Class": "A1V"
+  },
+  {
+    "Name": "Deneb",
+    "Distance (ly)": 2600.0541116982,
+    "Luminosity (L/Lo)": 196004.8540806223,
+    "Radius (R/Ro)": 203.0227148555,
+    "Temperature (K)": 8502.2960328903,
+    "Spectral Class": "A2Ia"
+  },
+  {
+    "Name": "Fomalhaut",
+    "Distance (ly)": 24.8431170801,
+    "Luminosity (L/Lo)": 21.4360232444,
+    "Radius (R/Ro)": 1.8758857976,
+    "Temperature (K)": 8630.9352414921,
+    "Spectral Class": "A3V"
+  },
+  {
+    "Name": "Hadar",
+    "Distance (ly)": 349.8618670626,
+    "Luminosity (L/Lo)": 50004.948951253,
+    "Radius (R/Ro)": 8.924915432,
+    "Temperature (K)": 24982.4559984331,
+    "Spectral Class": "B1III"
+  },
+  {
+    "Name": "Lalande 21185",
+    "Distance (ly)": 8.7317322984,
+    "Luminosity (L/Lo)": 4.7862383088,
+    "Radius (R/Ro)": 0.3347032307,
+    "Temperature (K)": 3382.6890402272,
+    "Spectral Class": "M2.1V"
+  },
+  {
+    "Name": "Mira",
+    "Distance (ly)": 418.2183952968,
+    "Luminosity (L/Lo)": 8704.7806495111,
+    "Radius (R/Ro)": 370.0744266107,
+    "Temperature (K)": 2925.3920762981,
+    "Spectral Class": "M7IIIe"
+  },
+  {
+    "Name": "Polaris",
+    "Distance (ly)": 323.034675098,
+    "Luminosity (L/Lo)": 2204.9741518094,
+    "Radius (R/Ro)": 37.4487610573,
+    "Temperature (K)": 6061.9433548655,
+    "Spectral Class": "F7Ib"
+  },
+  {
+    "Name": "Procyon",
+    "Distance (ly)": 11.1468819371,
+    "Luminosity (L/Lo)": 12.2188621199,
+    "Radius (R/Ro)": 2.0247293673,
+    "Temperature (K)": 6503.7855898504,
+    "Spectral Class": "F5IV-V"
+  },
+  {
+    "Name": "Regulus",
+    "Distance (ly)": 78.8696975851,
+    "Luminosity (L/Lo)": 292.7771392799,
+    "Radius (R/Ro)": 3.2154445654,
+    "Temperature (K)": 12493.5400873692,
+    "Spectral Class": "B7V"
+  },
+  {
+    "Name": "Rigel",
+    "Distance (ly)": 860.3803983161,
+    "Luminosity (L/Lo)": 120004.7228303429,
+    "Radius (R/Ro)": 78.8201839886,
+    "Temperature (K)": 12100.4388145159,
+    "Spectral Class": "B8Ia"
+  },
+  {
+    "Name": "Rigil Kentaurus",
+    "Distance (ly)": 4.4729427678,
+    "Luminosity (L/Lo)": 6.4969976741,
+    "Radius (R/Ro)": 1.1768595688,
+    "Temperature (K)": 5809.0653228186,
+    "Spectral Class": "G2V"
+  },
+  {
+    "Name": "Ross 154",
+    "Distance (ly)": 9.3233893462,
+    "Luminosity (L/Lo)": 4.9957946161,
+    "Radius (R/Ro)": 0.1833450975,
+    "Temperature (K)": 2775.2989538037,
+    "Spectral Class": "M3.5V"
+  },
+  {
+    "Name": "Sirius",
+    "Distance (ly)": 8.4048850423,
+    "Luminosity (L/Lo)": 30.3632115552,
+    "Radius (R/Ro)": 1.697550319,
+    "Temperature (K)": 9929.1974867611,
+    "Spectral Class": "A1V"
+  },
+  {
+    "Name": "Spica",
+    "Distance (ly)": 250.3496408249,
+    "Luminosity (L/Lo)": 22004.5947970871,
+    "Radius (R/Ro)": 7.4870500968,
+    "Temperature (K)": 25392.5355901035,
+    "Spectral Class": "B1III-IV"
+  },
+  {
+    "Name": "Vega",
+    "Distance (ly)": 25.4072867274,
+    "Luminosity (L/Lo)": 45.0263999451,
+    "Radius (R/Ro)": 2.3758185019,
+    "Temperature (K)": 9589.7203318027,
+    "Spectral Class": "A0V"
+  },
+  {
+    "Name": "Wolf 359",
+    "Distance (ly)": 7.573447101,
+    "Luminosity (L/Lo)": 4.9281268039,
+    "Radius (R/Ro)": 0.1897370426,
+    "Temperature (K)": 2812.8697252841,
+    "Spectral Class": "M6V"
+  }
 ]
