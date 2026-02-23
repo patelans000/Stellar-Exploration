@@ -1,6 +1,7 @@
 let isDragging = false;
 let stars;
 let starArray = [];
+let starPositions = {}; // Cache star positions
 
 let camX = 0;
 let camY = 0;
@@ -24,6 +25,19 @@ function setup() {
 
   // Sort by distance (for depth fading only)
   starArray.sort((a, b) => a["Distance (ly)"] - b["Distance (ly)"]);
+
+  // Calculate and cache star positions
+  randomSeed(42); // Fixed seed for consistent positions
+  noiseSeed(42);
+  for (let i = 0; i < starArray.length; i++) {
+    let dist = scaleDistance(starArray[i]["Distance (ly)"]);
+    let angle = noise(i * 0.3) * TWO_PI * 4;
+    
+    starPositions[i] = {
+      x: cos(angle) * dist,
+      y: sin(angle) * dist
+    };
+  }
 }
 
 function windowResized() {
@@ -121,11 +135,9 @@ function drawStars() {
 
     let star = starArray[i];
 
-    let dist = scaleDistance(star["Distance (ly)"]);
-    let angle = noise(i * 0.3) * TWO_PI * 4;
-
-    let x = cos(angle) * dist;
-    let y = sin(angle) * dist;
+    let pos = starPositions[i];
+    let x = pos.x;
+    let y = pos.y;
 
     let r = scaleRadius(star["Radius (R/Ro)"]);
     let c = getSpectralColor(star["Spectral Class"]);
@@ -311,12 +323,10 @@ function dist2(x1, y1, x2, y2) {
   for (let i = 0; i < starArray.length; i++) {
 
     let star = starArray[i];
+    let pos = starPositions[i];
 
-    let dist = scaleDistance(star["Distance (ly)"]);
-    let angle = noise(i * 0.3) * TWO_PI * 4;
-
-    let x = cos(angle) * dist;
-    let y = sin(angle) * dist;
+    let x = pos.x;
+    let y = pos.y;
 
     let r = scaleRadius(star["Radius (R/Ro)"]);
 
